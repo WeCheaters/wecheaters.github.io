@@ -1,0 +1,12 @@
+<svg width="492" height="369" viewBox="0 0 492 369" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="250.217" y="324.633" width="48" height="44.3672" fill="url(#paint0_linear_242_9305)" fill-opacity="0.2"/>
+<foreignObject x="-11.7832" y="-12" width="572" height="378"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(6px);clip-path:url(#bgblur_0_242_9305_clip_path);height:100%;width:100%"></div></foreignObject><rect data-figma-bg-blur-radius="12" x="0.216797" width="548" height="354" rx="24" fill="white" fill-opacity="0.1"/>
+<path d="M276.704 343.1C276.239 343.1 275.833 342.808 275.629 342.4L275.048 341.001L274.932 341.147C274.699 341.409 274.38 341.555 274.06 341.555C273.711 341.555 273.392 341.409 273.188 341.147L273.072 341.001L272.433 342.4C272.258 342.837 271.823 343.1 271.358 343.1C270.893 343.1 270.486 342.808 270.282 342.4L268.161 337.329C267.9 336.746 268.19 336.076 268.771 335.814C269.353 335.552 270.021 335.843 270.282 336.426L271.387 338.99L271.648 338.349C271.793 337.97 272.142 337.708 272.549 337.65C272.927 337.621 273.334 337.766 273.595 338.058L274.06 338.582L274.496 338.058C274.757 337.766 275.164 337.592 275.542 337.65C275.949 337.708 276.268 337.97 276.443 338.349L276.704 338.99L277.808 336.426C278.07 335.843 278.738 335.552 279.32 335.814C279.901 336.076 280.191 336.746 279.93 337.329L277.779 342.4C277.576 342.837 277.169 343.1 276.704 343.1Z" fill="white" fill-opacity="0.2"/>
+<defs>
+<clipPath id="bgblur_0_242_9305_clip_path"><rect transform="translate(11.7832 12)" x="0.216797" width="548" height="354" rx="24"/>
+</clipPath><linearGradient id="paint0_linear_242_9305" x1="274.217" y1="324.633" x2="274.217" y2="369" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>
